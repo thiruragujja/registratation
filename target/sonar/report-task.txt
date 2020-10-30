@@ -1,0 +1,6 @@
+projectKey=inteliq
+serverUrl=http://192.168.1.186:9000
+serverVersion=8.3.0.34182
+dashboardUrl=http://192.168.1.186:9000/dashboard?id=inteliq
+ceTaskId=AXSfbzVwZUEULuty3g1r
+ceTaskUrl=http://192.168.1.186:9000/api/ce/task?id=AXSfbzVwZUEULuty3g1r
